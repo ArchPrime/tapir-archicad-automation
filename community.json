@@ -1,0 +1,387 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-08T03:22:32Z",
+ "months": [
+  {
+   "month": "2022-07",
+   "commits": 19
+  },
+  {
+   "month": "2022-08",
+   "commits": 3
+  },
+  {
+   "month": "2022-09",
+   "commits": 36
+  },
+  {
+   "month": "2022-10",
+   "commits": 11
+  },
+  {
+   "month": "2022-11",
+   "commits": 16
+  },
+  {
+   "month": "2022-12",
+   "commits": 5
+  },
+  {
+   "month": "2023-01",
+   "commits": 7
+  },
+  {
+   "month": "2023-02",
+   "commits": 9
+  },
+  {
+   "month": "2023-03",
+   "commits": 10
+  },
+  {
+   "month": "2023-04",
+   "commits": 12
+  },
+  {
+   "month": "2023-05",
+   "commits": 1
+  },
+  {
+   "month": "2023-06",
+   "commits": 0
+  },
+  {
+   "month": "2023-07",
+   "commits": 0
+  },
+  {
+   "month": "2023-08",
+   "commits": 0
+  },
+  {
+   "month": "2023-09",
+   "commits": 6
+  },
+  {
+   "month": "2023-10",
+   "commits": 7
+  },
+  {
+   "month": "2023-11",
+   "commits": 0
+  },
+  {
+   "month": "2023-12",
+   "commits": 0
+  },
+  {
+   "month": "2024-01",
+   "commits": 4
+  },
+  {
+   "month": "2024-02",
+   "commits": 9
+  },
+  {
+   "month": "2024-03",
+   "commits": 0
+  },
+  {
+   "month": "2024-04",
+   "commits": 0
+  },
+  {
+   "month": "2024-05",
+   "commits": 0
+  },
+  {
+   "month": "2024-06",
+   "commits": 2
+  },
+  {
+   "month": "2024-07",
+   "commits": 14
+  },
+  {
+   "month": "2024-08",
+   "commits": 20
+  },
+  {
+   "month": "2024-09",
+   "commits": 22
+  },
+  {
+   "month": "2024-10",
+   "commits": 32
+  },
+  {
+   "month": "2024-11",
+   "commits": 28
+  },
+  {
+   "month": "2024-12",
+   "commits": 2
+  },
+  {
+   "month": "2025-01",
+   "commits": 12
+  },
+  {
+   "month": "2025-02",
+   "commits": 3
+  },
+  {
+   "month": "2025-03",
+   "commits": 3
+  },
+  {
+   "month": "2025-04",
+   "commits": 27
+  },
+  {
+   "month": "2025-05",
+   "commits": 39
+  },
+  {
+   "month": "2025-06",
+   "commits": 32
+  },
+  {
+   "month": "2025-07",
+   "commits": 38
+  },
+  {
+   "month": "2025-08",
+   "commits": 32
+  },
+  {
+   "month": "2025-09",
+   "commits": 9
+  },
+  {
+   "month": "2025-10",
+   "commits": 7
+  },
+  {
+   "month": "2025-11",
+   "commits": 54
+  },
+  {
+   "month": "2025-12",
+   "commits": 34
+  },
+  {
+   "month": "2026-01",
+   "commits": 10
+  },
+  {
+   "month": "2026-02",
+   "commits": 28
+  },
+  {
+   "month": "2026-03",
+   "commits": 8
+  },
+  {
+   "month": "2026-04",
+   "commits": 6
+  },
+  {
+   "month": "2026-05",
+   "commits": 48
+  },
+  {
+   "month": "2026-06",
+   "commits": 67
+  },
+  {
+   "month": "2026-07",
+   "commits": 93
+  },
+  {
+   "month": "2026-08",
+   "commits": 70
+  },
+  {
+   "month": "2026-09",
+   "commits": 65
+  },
+  {
+   "month": "2026-10",
+   "commits": 227
+  }
+ ],
+ "totals": {
+  "commits": 1254,
+  "discordMembers": 644,
+  "participants": 34
+ },
+ "topContributors": [
+  {
+   "name": "tlorantfy",
+   "commits": 397
+  },
+  {
+   "name": "Cri5chan",
+   "commits": 113
+  },
+  {
+   "name": "Viktor Kovacs",
+   "commits": 92
+  },
+  {
+   "name": "MathiasJon",
+   "commits": 85
+  },
+  {
+   "name": "SzamosiMate",
+   "commits": 54
+  },
+  {
+   "name": "fuzesArch",
+   "commits": 54
+  },
+  {
+   "name": "weltmaister",
+   "commits": 44
+  },
+  {
+   "name": "grzegorzwilk",
+   "commits": 39
+  },
+  {
+   "name": "kovacsv",
+   "commits": 32
+  },
+  {
+   "name": "Drew Parkinson",
+   "commits": 29
+  },
+  {
+   "name": "szamosi.mate",
+   "commits": 25
+  },
+  {
+   "name": "fertegi",
+   "commits": 24
+  },
+  {
+   "name": "ooki-atsufumi",
+   "commits": 24
+  },
+  {
+   "name": "Tibor Lorántfy",
+   "commits": 24
+  },
+  {
+   "name": "Kaushik",
+   "commits": 24
+  },
+  {
+   "name": "Lucas Becker",
+   "commits": 20
+  },
+  {
+   "name": "Parikshit Wadhwa",
+   "commits": 19
+  },
+  {
+   "name": "bimgeek",
+   "commits": 15
+  },
+  {
+   "name": "Aleš Dolenec",
+   "commits": 15
+  },
+  {
+   "name": "akunia",
+   "commits": 13
+  },
+  {
+   "name": "Ben Tristem",
+   "commits": 11
+  },
+  {
+   "name": "Gigiasso",
+   "commits": 10
+  },
+  {
+   "name": "Sven Neumann",
+   "commits": 10
+  },
+  {
+   "name": "JBENEITEZ",
+   "commits": 9
+  },
+  {
+   "name": "poco2018",
+   "commits": 8
+  },
+  {
+   "name": "Kaushik LS",
+   "commits": 7
+  },
+  {
+   "name": "Scott Yost",
+   "commits": 6
+  },
+  {
+   "name": "Barancsuk Ádám",
+   "commits": 5
+  },
+  {
+   "name": "Kappa-lo",
+   "commits": 5
+  },
+  {
+   "name": "parikshit99",
+   "commits": 5
+  },
+  {
+   "name": "Agnes Gaschitz",
+   "commits": 5
+  },
+  {
+   "name": "leceta",
+   "commits": 4
+  },
+  {
+   "name": "kozure-dev",
+   "commits": 3
+  },
+  {
+   "name": "KK6877aSKJ",
+   "commits": 3
+  },
+  {
+   "name": "Archigame",
+   "commits": 3
+  },
+  {
+   "name": "aitor leceta",
+   "commits": 3
+  },
+  {
+   "name": "iyur",
+   "commits": 3
+  },
+  {
+   "name": "Marcel Winklmüller",
+   "commits": 2
+  },
+  {
+   "name": "sdh001905",
+   "commits": 2
+  },
+  {
+   "name": "agmurf",
+   "commits": 2
+  }
+ ],
+ "memberHistory": [
+  {
+   "date": "2026-11-08",
+   "members": 644
+  }
+ ]
+}
