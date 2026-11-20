@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-19T03:23:09Z",
+ "generatedAt": "2026-11-20T03:23:09Z",
  "months": [
   {
    "month": "2022-07",
@@ -213,10 +213,10 @@
  ],
  "totals": {
   "commits": 1254,
-  "discordMembers": 684,
+  "discordMembers": 688,
   "discordMembersChange": {
-   "diff": 40,
-   "days": 11
+   "diff": 44,
+   "days": 12
   },
   "participants": 34
  },
@@ -430,6 +430,10 @@
   {
    "date": "2026-11-19",
    "members": 684
+  },
+  {
+   "date": "2026-11-20",
+   "members": 688
   }
  ]
 }
